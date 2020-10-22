@@ -1,2 +1,2 @@
 # ohmyemacs
-A easy setup configuration for emacs the text edito
+A easy setup configuration for emacs the text editor
