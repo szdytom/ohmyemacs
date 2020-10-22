@@ -3,3 +3,4 @@
 
 ;;; line number
 (global-linum-mode 1)
+(setq linum-format "%5d | ")

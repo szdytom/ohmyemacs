@@ -1,0 +1,5 @@
+(load-config-file "loader/package-mirror.el")
+(load-config-file "loader/load-awesome-pair.el")
+(load-config-file "loader/load-color-theme.el")
+(load-config-file "loader/tabs.el")
+(load-config-file "loader/load-mode.el")
