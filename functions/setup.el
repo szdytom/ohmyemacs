@@ -1,6 +1,6 @@
 (defun ohmyemacs-install-list-packages
   (pl)
-  (loop for x in pl do
+  (cl-loop for x in pl do
         (print x)(
          package-install x)))
 
