@@ -1,5 +1,8 @@
 (load-config-file "loader/init-package.el")
+(load-config-file "loader/ui.el")
 (load-config-file "loader/pair.el")
 (load-config-file "loader/theme.el")
 (load-config-file "loader/tabs.el")
 (load-config-file "loader/load-mode.el")
+(load-config-file "loader/lsp.el")
+(load-config-file "loader/neotree.el")
