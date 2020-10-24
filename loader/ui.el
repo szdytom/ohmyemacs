@@ -1,5 +1,5 @@
 ;; theme
-(load-theme 'doom-zenburn t)
+(load-theme 'doom-one t)
 
 ;; font face
 (set-default-font "Fira Code 17")
@@ -24,3 +24,7 @@
 
 ;; mode line
 (mood-line-mode 1)
+
+;; line number
+(global-linum-mode 1)
+(setq linum-format "%d ")
