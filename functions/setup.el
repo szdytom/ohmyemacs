@@ -15,9 +15,12 @@
      python-mode
      xclip
      s
-     use-package))
+     use-package
+     magit))
 
 (defun ohmyemacs-setup
     ()
   (interactive)
-  (ohmyemacs-install-list-packages ohmyemacs-required-packages))
+  (package-refresh-contents)
+  (ohmyemacs-install-list-packages ohmyemacs-required-packages)
+  (reload-config))
