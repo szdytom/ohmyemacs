@@ -1,4 +1,5 @@
 (load-config-file "loader/init-package.el")
+(load-config-file "loader/screen-saver.el")
 (load-config-file "loader/ui.el")
 (load-config-file "loader/pair.el")
 (load-config-file "loader/theme.el")
