@@ -4,4 +4,4 @@
 
 (load-config-file "functions/init.el")
 (load-config-file "loader/init.el")
-(load-config-file "conf/init.el")
+(load-config-file "local/init.el")

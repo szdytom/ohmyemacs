@@ -13,6 +13,6 @@
 # oh my emacs
 
 # user config
-conf/*
-!/conf/init.el
-!/conf/README.md
+local/*
+!/local/init.el
+!/local/README.md
