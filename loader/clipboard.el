@@ -1,0 +1,2 @@
+;; clipboard
+(xclip-mode t)
