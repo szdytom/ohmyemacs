@@ -3,8 +3,8 @@
 
 (global-set-key (kbd "C-I") 'lsp-format-buffer)
 
-(add-hook 'c++-mode 'lsp)
-(add-hook 'c-mode 'lsp)
-(add-hook 'python-mode 'lsp)
+(add-hook 'c++-mode-hook 'lsp)
+(add-hook 'c-mode-hook 'lsp)
+(add-hook 'python-mode-hook 'lsp)
 
 (setq lsp-enable-snippet 0)

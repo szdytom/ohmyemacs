@@ -16,7 +16,8 @@
      xclip
      s
      use-package
-     magit))
+     magit
+     modern-cpp-font-lock))
 
 (defun ohmyemacs-setup
     ()

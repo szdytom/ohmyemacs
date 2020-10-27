@@ -28,3 +28,6 @@
 ;; line number
 (global-linum-mode 1)
 (setq linum-format "%d ")
+
+;; cursor
+(setq-default cursor-type 'box)

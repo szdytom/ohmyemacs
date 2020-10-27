@@ -1,2 +1,2 @@
-;; zone when 60 second out of operation
-(zone-when-idle 60)
+(require 'zone)
+(zone-when-idle 120)
