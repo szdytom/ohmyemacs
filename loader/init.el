@@ -1,5 +1,6 @@
 (load-config-file "loader/pack.el")
 (load-config-file "loader/key-map.el")
+(load-config-file "loader/behavior/init.el")
 (load-config-file "loader/screen-saver.el")
 (load-config-file "loader/ui.el")
 (load-config-file "loader/pair.el")
