@@ -1,1 +1,1 @@
-(load-config-file "conf/mail.el")
+(load-config-file "local/mail.el")
